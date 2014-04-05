@@ -1,0 +1,27 @@
+﻿01051053
+|d000一个月过去了…两个月过去了…
+|d000夏天到了…我一直都和春原做着那些傻事。
+|d000过了暑假，一向没有季节感的春原的房间，也添置了电视机。
+|d053我真的要放了哦。
+|d000他晃了晃手里的录像带。
+|d060你在耍我吗？
+|d053不，只是在想你受不受得了。
+|d060都已经过去了不是吗…
+|d053那么，我放了。
+|d060请便。
+|d000那是一盘电视录像，录像里穿着各种各样制服的高中生。
+|d000其中一个站在讲台上，威风凛凛的姿势，长长的头发。
+|d000只看造型就知道…是智代。
+|d000只是，有一点和印象不同，她戴了眼镜。
+|d051对了对了，好像是最近戴上去的，很适合她吧。
+|d000我装作没看见似的一言不发，但是，目光却一刻也无法从画面上移开。
+|d000智代靠近了话筒，开始说话。
+|d190-I bite the bullet in order to prevent the loneliness.
+|d190If we hadn't kown the row of cherry trees would have been gone,
+|d190we wouldn't have found fortune given by them.
+|d190Because we all did nothing,except for making the grade by might and main.
+|d053哪国话？
+|d000全是英文的演讲，大概也有这样的部门吧。
+|d000最后，有人向她献上了巨大的奖杯。
+|d000她笑了，虽然她在笑着、但给我的感觉却好遥远。
+end191

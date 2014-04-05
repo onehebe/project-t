@@ -1,0 +1,7 @@
+MIDlet-Jar-Size: 1079045
+MIDlet-Jar-URL: project-t.jar
+MIDlet-Name: project-t Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
